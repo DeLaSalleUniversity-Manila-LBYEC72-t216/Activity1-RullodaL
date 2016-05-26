@@ -35,7 +35,7 @@ int main() {
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(int argc, char *argv[]) {
+int main() {
 	int year, age;
 	printf("Input birth year: ");
 	scanf("%d",&year);
@@ -49,7 +49,7 @@ int main(int argc, char *argv[]) {
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(int argc, char *argv[]) {
+int main() {
 	float efofex, x;
 	printf("Input value of x: ");
 	scanf("%f",&x);
