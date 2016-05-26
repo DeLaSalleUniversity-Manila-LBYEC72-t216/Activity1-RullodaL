@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(int argc, char *argv[]) {
+int main() {
 	float efofex, x;
 	printf("Input value of x: ");
 	scanf("%f",&x);
